@@ -1,2 +1,2 @@
 # docker-php
-php container with gd, iconv, mysqli
+php container with gd, iconv, mysqli...
