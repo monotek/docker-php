@@ -1,4 +1,4 @@
-FROM php:7.3.0-apache-stretch
+FROM php:7.2-apache-stretch
 
 COPY install.sh /tmp
 
